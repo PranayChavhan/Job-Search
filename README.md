@@ -35,3 +35,9 @@ npx expo start
 You can now open your app on a physical device or emulator:
 
 #### On your phone: Scan the QR code with the Expo Go app
+
+<p align="center">
+  <img src="https://github.com/PranayChavhan/Job-Search/assets/85397500/a08b6bda-9988-46cc-ab8f-c37cbfd6f004" width="45%" />
+  <img src="https://github.com/PranayChavhan/Job-Search/assets/85397500/b602fe1d-0ae0-4336-9837-cb866cf56148" width="45%" />
+</p>
+
