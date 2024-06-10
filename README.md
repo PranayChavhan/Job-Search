@@ -12,7 +12,7 @@ First, clone the repository to your local machine:
 
 ```sh
 git clone https://github.com/pranaychavhan/job-search.git
-cd job-search-app
+cd job-search
 ```
 
 ### 2. Install Dependencies
